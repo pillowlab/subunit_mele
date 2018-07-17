@@ -1,0 +1,18 @@
+# Compiled latex #
+###################
+*.aux
+*.log
+*.gz
+*.blg
+*.bbl
+*.toc
+
+# Specific PDFs #
+###################
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+*~
